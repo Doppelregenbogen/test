@@ -2,7 +2,6 @@
 //  TESTTESTViewController.m
 //  TESTTEST
 //
-//  Created by Herman Chin on 14.11.14.
 //  Copyright (c) 2014 TESTTEST. All rights reserved.
 //
 
@@ -17,6 +16,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    //test test
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
